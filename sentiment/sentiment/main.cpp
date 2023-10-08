@@ -1,3 +1,5 @@
+// Kenneth Kakie  |  Oct. 8th 2023  |  Sentiment Analysis
+
 #include "function.h"
 #include "function.cpp"
 #include <vector>
